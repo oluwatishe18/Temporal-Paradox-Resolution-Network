@@ -5,3 +5,5 @@ P
  contracts/paradox-detection.clar,a/a/aa5feb79f97e6c9e933486a3fca4b2134ce477d5
 O
 tests/paradox-detection.test.ts,6/c/6c52dc0b9cb1095a078a16b0dba3aa3d9ab2054d
+T
+$contracts/resolution-strategies.clar,6/e/6eec5b741da8ec97112b745ff714af7c43a19dbb

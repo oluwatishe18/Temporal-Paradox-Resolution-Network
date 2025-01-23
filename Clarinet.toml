@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/paradox-detection.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.resolution-strategies]
+path = 'contracts/resolution-strategies.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
